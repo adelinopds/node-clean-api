@@ -1,0 +1,20 @@
+{
+  "name": "node-clean-api",
+  "version": "1.0.0",
+  "description": "projeto para massificar os conceitos de clean architeture com node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelinopds/node-clean-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelinopds/node-clean-api/issues"
+  },
+  "homepage": "https://github.com/adelinopds/node-clean-api#readme"
+}
